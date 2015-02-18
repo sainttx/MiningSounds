@@ -1,0 +1,8 @@
+# MiningSounds by SainttX
+# Add new sounds for specific materials (
+# Find sounds here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+# Find materials here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+
+# Example - comment out if you don't want this
+SPONGE: CHEST_CLOSE
+

@@ -1,0 +1,6 @@
+name: MiningSounds
+version: 1.0
+description: A simple plugin that plays custom sounds when a block with a specific material is broken
+author: SainttX
+
+main: me.sainttx.miningsounds.MiningSoundsPlugin
